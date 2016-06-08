@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:22.029727
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:34
 #+TITLE: 佛說堅意經
 #+PROPERTY: CBETA_ID T17n0733
 #+PROPERTY: ID KR6i0427
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 733
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0427_T_000-0534c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0427_T_001-0534c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.733¶
-
- 《佛說堅意經》¶
+No. 733¶
+《佛說堅意經》¶
 ¶
 後漢安息國三藏安世高譯¶
 
@@ -40,7 +39,7 @@ No.733¶
 毀於帚矣。亦當復如風火之力光，死人、死狗、¶
 死蛇、屎尿，亦吹亦燒，然不毀風火之力光。若¶
 人欲來殺己，己亦不瞋；欲來謗己，己亦不瞋；¶
-欲來譖己，己亦不瞋；欲來笑己，己亦不瞋；欲¶
+欲來譖己，己亦不瞋；欲時笑己，己亦不瞋；欲¶
 來壞己，使不事佛法，己亦不瞋。但當慈心正¶
 意，罪滅福生，邪不入正，萬惡消爛。」
 

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:22.642658
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:34
 #+TITLE: 佛說堅意經
 #+PROPERTY: CBETA_ID T17n0733
 #+PROPERTY: ID KR6i0427
